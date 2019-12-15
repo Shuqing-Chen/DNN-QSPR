@@ -1,0 +1,8 @@
+pymatgen
+matplotlib
+numpy
+pandas
+scipy
+sklearn
+seaborn
+xgboost
